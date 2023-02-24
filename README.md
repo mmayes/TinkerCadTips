@@ -18,6 +18,10 @@ From https://tinkercad.zendesk.com/hc/en-us/community/posts/206036248-Align-shap
 3. Reset the workplane to the default position
 4. Paste the object.
 
+### Snap Grid
+https://youtu.be/3VnYPsbSmeA
+The default setting for snapping an object is 1mm. That can be adjusted in the bottom right corner of the workspace view. This can be helpful when using the keyboard to help align and move things.
+
 ### Keyboard shortcuts
 Based on https://blog.tinkercad.com/keyboard-shortcuts-for-the-3d-editor
 * Move along X/Y axis `←/→/↑/↓`
@@ -34,3 +38,7 @@ Based on https://blog.tinkercad.com/keyboard-shortcuts-for-the-3d-editor
 * Align objects `L`
 * Flip/Mirror objects `m`
 * Place a ruler `r`. This [blog post](https://blog.tinkercad.com/tinkertip-r-is-for-ruler) shows how to use the ruler.
+
+### Create a grid
+From https://www.youtube.com/watch?v=ldwh9ztYQxU&t=59s
+* Search the shapes for grid. There are multiple styles of grid available. Adjust the size parameters and then can make it a negative in order to greate a spaces in another object.
