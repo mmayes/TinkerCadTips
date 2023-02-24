@@ -41,4 +41,4 @@ Based on https://blog.tinkercad.com/keyboard-shortcuts-for-the-3d-editor
 
 ### Create a grid
 From https://www.youtube.com/watch?v=ldwh9ztYQxU&t=59s
-* Search the shapes for grid. There are multiple styles of grid available. Adjust the size parameters and then can make it a negative in order to greate a spaces in another object.
+Search the shapes for grid. There are multiple styles of grid available. Adjust the size parameters and then can make it a negative in order to greate a spaces in another object.
